@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": " git+ssh://git@github.com/react-component/steps.git"
+    "url": " git+ssh://git@github.com/mjoyce91/steps.git"
   },
   "bugs": {
     "url": "http://github.com/mjoyce91/steps/issues"
