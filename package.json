@@ -1,5 +1,5 @@
 {
-  "name": "rc-steps",
+  "name": "react-steps",
   "version": "3.0.1",
   "description": "steps ui component for react",
   "keywords": [
@@ -18,16 +18,16 @@
   "homepage": "http://github.com/react-component/steps",
   "maintainers": [
     {
-      "name": "afc163",
-      "email": "afc163@gmail.com"
-    }
+      "name": "mjoyce91",
+      "email": "mjoyce91@gmail.com"
+    },
   ],
   "repository": {
     "type": "git",
     "url": " git+ssh://git@github.com/react-component/steps.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/steps/issues"
+    "url": "http://github.com/mjoyce91/steps/issues"
   },
   "licenses": "MIT",
   "config": {

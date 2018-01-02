@@ -1,6 +1,8 @@
-# rc-steps
+# react-steps
 
 ---
+
+Forked from https://github.com/react-component/steps
 
 React steps component.
 
